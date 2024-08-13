@@ -1,0 +1,13 @@
+REMARK   DATE:     2/ 5/21     14:27: 9      CREATED BY USER: nathan                  
+ATOM      1  O1  ACO A   1      -0.000   1.866   0.000  1.00  0.00      ACO 
+ATOM      2  C1  ACO A   1      -0.000   0.636  -0.000  1.00  0.00      ACO 
+ATOM      3  C2  ACO A   1      -1.272  -0.162   0.000  1.00  0.00      ACO 
+ATOM      4  C3  ACO A   1       1.272  -0.162  -0.000  1.00  0.00      ACO 
+ATOM      5  H21 ACO A   1      -2.148   0.521   0.000  1.00  0.00      ACO 
+ATOM      6  H22 ACO A   1      -1.317  -0.805  -0.904  1.00  0.00      ACO 
+ATOM      7  H23 ACO A   1      -1.317  -0.805   0.904  1.00  0.00      ACO 
+ATOM      8  H31 ACO A   1       1.317  -0.805  -0.904  1.00  0.00      ACO 
+ATOM      9  H32 ACO A   1       2.148   0.521  -0.000  1.00  0.00      ACO 
+ATOM     10  H33 ACO A   1       1.317  -0.805   0.904  1.00  0.00      ACO 
+TER      11      ACO      1
+END

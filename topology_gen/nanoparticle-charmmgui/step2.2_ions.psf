@@ -1,0 +1,40 @@
+PSF EXT CMAP XPLOR
+
+         5 !NTITLE
+* SET NIONTYPES = 1                                                             
+* SET NPOSTOT = 0                                                               
+* SET NNEGTOT = 0                                                               
+* SET NIONTOT = 0                                                               
+*  DATE:     8/12/24      4:42:13      CREATED BY USER: apache                  
+
+         0 !NATOM
+
+         0 !NBOND: bonds
+
+
+         0 !NTHETA: angles
+
+
+         0 !NPHI: dihedrals
+
+
+         0 !NIMPHI: impropers
+
+
+         0 !NDON: donors
+
+
+         0 !NACC: acceptors
+
+
+         0 !NNB
+
+
+
+         0         0 !NGRP NST2
+
+
+         0         0 !NUMLP NUMLPH
+
+         0 !NCRTERM: cross-terms
+
